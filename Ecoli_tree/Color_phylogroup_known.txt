@@ -1,0 +1,53 @@
+TREE_COLORS
+#use this template to define branch colors and styles, colored ranges and label colors/font styles/backgrounds
+#lines starting with a hash are comments and ignored during parsing
+#	A	#ffff00
+#	B1	#00ff00
+#	B2	#03ba03
+#	D	#00ffff
+#	E	#0000ff
+#	F	#ff8000
+#	S	#4b0082
+
+SEPARATOR TAB
+DATA
+Ec1	label	#ffff00
+Ec10	label	#ffff00
+Ec13	label	#ffff00
+Ec29	label	#ffff00
+Ec35	label	#ffff00
+Ec55	label	#ffff00
+Ec94	label	#ffff00
+Ec502	label	#ffff00
+Ec14	label	#00ff00
+Ec17	label	#00ff00
+Ec19	label	#00ff00
+Ec24	label	#00ff00
+Ec59	label	#00ff00
+Ec65	label	#00ff00
+Ec74	label	#00ff00
+Ec2	label	#03ba03
+Ec16	label	#03ba03
+Ec22	label	#03ba03
+Ec23	label	#03ba03
+Ec27	label	#03ba03
+Ec57	label	#03ba03
+Ec67	label	#03ba03
+Ec71	label	#03ba03
+Ec37	label	#ff8000
+Ec53	label	#ff8000
+Ec73	label	#ff8000
+Ec9	label	#0000ff
+Ec42	label	#0000ff
+Ec49	label	#0000ff
+Ec75	label	#0000ff
+Ec78	label	#0000ff
+Ec81	label	#0000ff
+Ec128	label	#0000ff
+Ec159	label	#0000ff
+Ec183	label	#00ffff
+Ec62	label	#00ffff
+Ec304	label	#00ffff
+Ec152	label	#4b0082
+
+
